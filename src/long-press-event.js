@@ -46,7 +46,7 @@
         var el = e.target;
 
         // get delay from html attribute if it exists, otherwise default to 1500
-        var longPressDelayInMs = parseInt(el.getAttribute('data-long-press-delay') || '750', 10);
+        var longPressDelayInMs = parseInt(el.getAttribute('data-long-press-delay') || '350', 10);
 
         // start the timer
         timer = setTimeout(fireLongPressEvent.bind(el), longPressDelayInMs);
