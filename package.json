@@ -1,6 +1,6 @@
 {
   "name": "long-press-event",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A 0.5k script that adds a long-press event to the DOM using pure JS",
   "main": "dev-server.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/john-doherty/long-press-event.git"
+    "url": "git+https://github.com/cchatdev/long-press-event.git"
   },
   "bugs": {
     "url": "https://github.com/john-doherty/long-press-event/issues"
